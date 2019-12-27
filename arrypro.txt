@@ -1,21 +1,26 @@
 
 public class NewClass5 {
     
-    public static void main(String []args){
-        
-        int [] list={1,2,3,4,5,6,7,8,9,10};
-     
-        //print the all elements of array 
-        for(int i=0;i<=list.length;i++)
+    public static void main(String []args){ int [] list = {18,29,36};
+        int[] n=list;
+        int i=0,a;
+        for(;i<list.length;i++)
         {
-                
-        System.out.println(list[i]);
-        
-                       
+          a=list[i];
+           {
+              if(a<n.length)
+              {
+                 System.out.println(a);
+ System.out.println(b);
+ System.out.println(c);
               }
-             
-    }
-        
+              else
+              {
+                 System.out.println(n[i]);
+              }
+          
+           
+     }   
         
         
     }
