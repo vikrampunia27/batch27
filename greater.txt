@@ -1,0 +1,41 @@
+
+
+
+public class NewClass {
+    public static void main(String []args){
+        
+        int [] list = {18,29,36};
+        int[] n=list;
+        int i=0,a;
+        for(;i<list.length;i++)
+        {
+          a=list[i];
+           {
+              if(a<n.length)
+              {
+                 System.out.println(a);
+              }
+              else
+              {
+                 System.out.println(n[i]);
+              }
+          
+           
+           
+           }  
+            
+          
+           
+        }
+        
+        
+        
+                
+        
+        
+        
+     
+        
+        
+    }
+}
