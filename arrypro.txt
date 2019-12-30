@@ -1,9 +1,2 @@
 
-public class NewClass5 {
-    
-    public static void main(String []args){ int [] list = {18,29,36};
-        int[] n=list;
-        int i=0,a;
-        ghhjjjj
-kjhhgf
 kjhgfd

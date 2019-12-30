@@ -2,12 +2,3 @@
 kkkkkk
 llll
 lll
-
-print ln
-"abc");
-hello
-<h1>
-<h2>
- 
-    }
-}
